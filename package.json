@@ -1,0 +1,18 @@
+{
+  "name": "http-practica",
+  "version": "0.0.0",
+  "description": "Practica del modulo http de node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "node"
+  ],
+  "author": "MrBorrego696",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
